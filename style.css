@@ -1,0 +1,16 @@
+.square {
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    margin-left: 10em;
+    margin-right: 20em;
+}
+
+.container {
+    height: 98vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 1px solid black;
+    align-items: center;
+}
